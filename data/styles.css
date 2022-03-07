@@ -69,11 +69,22 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
 .form_disabled {
 }
 .connector {
+}
+.marker {
+  color:#FFFFFF;
 }
 textarea, select, input, button { outline: none; }
